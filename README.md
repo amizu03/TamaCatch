@@ -15,6 +15,6 @@ To play, just run the .exe file located in the "TamaCatch" directory. Make sure 
 3. Do not use this raw, unmodified version to submit as a project for any course. The MIT License is provided, but I'd rather save myself a headache and not have to deal with unncessesary plagiarism accusations.
 
 # Screenshots
-![Game Over](https://github.com/amizu03/TamaCatch/tree/master/assets/game_over.png)
-![In-Game](https://github.com/amizu03/TamaCatch/tree/master/assets/in_game.png)
-![Title Screen](https://github.com/amizu03/TamaCatch/tree/master/assets/title_screen.png)
+![Game Over](https://github.com/amizu03/TamaCatch/blob/master/assets/game_over.png)
+![In-Game](https://github.com/amizu03/TamaCatch/blob/master/assets/in_game.png)
+![Title Screen](https://github.com/amizu03/TamaCatch/blob/master/assets/title_screen.png)
